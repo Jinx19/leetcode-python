@@ -25,10 +25,3 @@ class Solution:
                 path.append(candidates[i])
                 self.dfs(candidates[i:], target - candidates[i], path, result)
                 path.remove(candidates[i])
-
-
-candidates = [8, 7, 4, 3]
-target = 11
-test = Solution()
-result = test.combinationSum(candidates, target)
-print(result)
