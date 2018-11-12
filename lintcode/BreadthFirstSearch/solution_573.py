@@ -1,7 +1,5 @@
 import collections
 import sys
-
-
 class Solution:
     """
     @param grid: a 2D grid
