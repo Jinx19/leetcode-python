@@ -27,3 +27,11 @@ class Solution:
             # remove transformations from wordDict to avoid cycle
             wordDict -= front
         return 0
+
+
+# TEST
+beginWord = "hit",
+endWord = "cog",
+wordList = ["hot", "dot", "dog", "lot", "log", "cog"]
+solution = Solution()
+solution.ladderLength(beginWord, endWord, wordList)
