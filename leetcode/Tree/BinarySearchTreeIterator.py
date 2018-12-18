@@ -46,19 +46,3 @@ class BSTIterator(object):
             self.root = smallest.right
 
         return smallest.val
-
-
-# root = TreeNode(8)
-# root.left = TreeNode(5)
-# root.left.left = TreeNode(3)
-# root.left.right = TreeNode(6)
-# root.right = TreeNode(10)
-# root.right.left = TreeNode(9)
-#
-# i, v = BSTIterator(root), []
-# while i.hasNext():
-#     v.append(i.next())
-#
-# print(v)
-q = deque()
-print(q.pop())

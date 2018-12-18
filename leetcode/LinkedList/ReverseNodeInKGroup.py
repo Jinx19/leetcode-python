@@ -1,29 +1,43 @@
-# Definition for singly-linked list.
-# class ListNode(object):
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
-
-from collections import deque
-
 from leetcode.LinkedList.ListNode import ListNode
 
 
 class Solution(object):
-    def reverse(self, start, k):
-        q = deque()
-        pre = start
-        while k:
-            k -= 1
-            q.append(pre)
-            pre = pre.next
-        head_after_reverse = q.pop()
-        curr = head_after_reverse
-        while q:
-            curr.next = q.pop()
-            curr = curr.next
-        curr.next = None
-        return head_after_reverse, curr
+    """
+    HEAD -->n1-->n2-->n3-->n4-->...-->nk-->nk+1
+    ==>
+    HEAD -->nk-->nk-1-->nk-2-->...-->n1-->nk+1
+    """
+    def reverseNextKNodes(self, head, k):
+        curt = head
+        n1 = curt.next
+
+        # if less k nodes, return null
+        for j in range(k):
+            curt = curt.next
+            if not curt:
+                return None
+
+        nk = curt
+        nkplus = curt.next
+
+        # reverse
+
+        prev = head
+        curt = head.next
+        while curt != nkplus:
+            temp = curt.next
+            curt.next = prev
+            prev = curt
+            curt = temp
+
+        # last: curt = nk+1,prev = nk,
+        # head--> h1
+        # nk->nk-1->nk-2->nk-3->....->head
+        # nk+1->nk+2->nk+3->...->...
+        head.next = nk
+        n1.next = nkplus
+
+        return n1
 
     def reverseKGroup(self, head, k):
         """
@@ -31,42 +45,11 @@ class Solution(object):
         :type k: int
         :rtype: ListNode
         """
-        count = 0
-        pre_right = None
-        left, right = head, head
-        while right:
-            count += 1
-            if count == k:
-                count = 0
-                # save remind node
-                remind = right.next
+        dummy = ListNode(0)
+        dummy.next = head
 
-                # get left node and right node after reverse
-                new_left, new_right = self.reverse(left, k)
+        prev = dummy
+        while prev:
+            prev = self.reverseNextKNodes(prev, k)
 
-                # first reverse , set return head
-                if not pre_right:
-                    head = new_left
-                else:
-                    # connect has revered to curr revered
-                    pre_right.next = new_left
-
-                pre_right = new_right
-                new_right.next = remind
-                left, right = remind, remind
-                continue
-            right = right.next
-        return head
-
-
-# test
-
-
-root = ListNode(1)
-temp = root
-for i in range(2, 6):
-    temp.next = ListNode(i)
-    temp = temp.next
-
-s = Solution()
-head = s.reverseKGroup(root, 3)
+        return dummy.next

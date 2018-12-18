@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34e8047d-55bf-4ee4-b709-6c37e5d867e9" name="Default Changelist" comment="delete test">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beauryOfProgramming/1InBit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleancode/array&amp;string/TwoSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleancode/array&amp;string/twoSum2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kickstart/A-large-practice.in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kickstart/A-small-practice.in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kickstart/h/A-large.in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kickstart/h/A-small-attempt0.in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kickstart/h/A-small-attempt1.in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kickstart/h/B-small-attempt0.in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kickstart/h/C-small-attempt0.in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kickstart/h/solutionA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kickstart/h/solutionC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kickstart/h/soulutionB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kickstart/solutionA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kickstart/solutionB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Array/PlusOne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/DP/MaximumProductSubarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/DP/Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/LinkedList/CopyListWithRandomPointer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/LinkedList/MergeTwoSortedLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/LinkedList/PartitionList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/LinkedList/RandomListNode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/LinkedList/ReorderList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/LinkedList/ReverseLinkedListII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/LinkedList/RotateList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Math/PalindromeNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/String/FirstUniqueCharacterInAString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/String/ReverseWordsInAString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/String/StringToInteger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/String/ValidNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/String/ValidPalindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Tree/IncreasingOrderSearchTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/TwoPointers/3SumClosest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/TwoPointers/MoveZeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/TwoPointers/RotateString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/LinkedList/ConvertABinarySearchTreeToDoublyLinkedListWithInOrderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/LinkedList/DoublyListNode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/LinkedList/SwapTwoNodesInLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/Sort/KthSmallestNumbersInUnsortedArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/Sort/Median.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/TwoPointers/3Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/TwoPointers/RemoveDuplicateNumbersInArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/TwoPointers/TriangleCount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/TwoPointers/TwoSumClosestToTarget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/TwoPointers/TwoSumGreaterThanTarget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/TwoPointers/TwoSumIII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/TwoPointers/windowSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/LinkedList/ReverseNodeInKGroup.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/LinkedList/ReverseNodeInKGroup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Tree/BinarySearchTreeIterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Tree/BinarySearchTreeIterator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lintcode/DepthFirstSearch/solution_135.py" beforeDir="false" afterPath="$PROJECT_DIR$/lintcode/DepthFirstSearch/solution_135.py" afterDir="false" />
+    </list>
+    <ignored path=".idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode_python$swaptwonodesinlinkedlist.coverage" NAME="swaptwonodesinlinkedlist Coverage Results" MODIFIED="1542972785287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/LinkedList" />
+    <SUITE FILE_PATH="coverage/leetcode_python$Median.coverage" NAME="Median Coverage Results" MODIFIED="1542294859513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/Sort" />
+    <SUITE FILE_PATH="coverage/leetcode_python$ReorderList.coverage" NAME="ReorderList Coverage Results" MODIFIED="1542981164470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/LinkedList" />
+    <SUITE FILE_PATH="coverage/leetcode_python$3Sum.coverage" NAME="3Sum Coverage Results" MODIFIED="1544892536575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/TwoPointers" />
+    <SUITE FILE_PATH="coverage/leetcode_python$TwoSumIII.coverage" NAME="TwoSumIII Coverage Results" MODIFIED="1544719106022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/TwoPointers" />
+    <SUITE FILE_PATH="coverage/leetcode_python$RemoveDuplicateNumbersInArray.coverage" NAME="RemoveDuplicateNumbersInArray Coverage Results" MODIFIED="1544707945537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/TwoPointers" />
+    <SUITE FILE_PATH="coverage/leetcode_python$solution_135.coverage" NAME="solution_135 Coverage Results" MODIFIED="1542012732465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$ValidPalindrome.coverage" NAME="ValidPalindrome Coverage Results" MODIFIED="1543235318615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/String" />
+    <SUITE FILE_PATH="coverage/leetcode_python$StringToInteger.coverage" NAME="StringToInteger Coverage Results" MODIFIED="1543238049014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/String" />
+    <SUITE FILE_PATH="coverage/leetcode_python$PalindromeNumber.coverage" NAME="PalindromeNumber Coverage Results" MODIFIED="1543243873374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/Math" />
+    <SUITE FILE_PATH="coverage/leetcode_python$soulutionB.coverage" NAME="soulutionB Coverage Results" MODIFIED="1542523471448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kickstart/h" />
+    <SUITE FILE_PATH="coverage/leetcode_python$RotateString.coverage" NAME="RotateString Coverage Results" MODIFIED="1544717367735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/TwoPointers" />
+    <SUITE FILE_PATH="coverage/leetcode_python$solution_573.coverage" NAME="solution_573 Coverage Results" MODIFIED="1541668161713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$KthSmallestNumbersInUnsortedArray.coverage" NAME="KthSmallestNumbersInUnsortedArray Coverage Results" MODIFIED="1545060543644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/Sort" />
+    <SUITE FILE_PATH="coverage/leetcode_python$Triangle.coverage" NAME="Triangle Coverage Results" MODIFIED="1544933790146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/DP" />
+    <SUITE FILE_PATH="coverage/leetcode_python$solution_33.coverage" NAME="solution_33 Coverage Results" MODIFIED="1542033697503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/DepthFirstSearch" />
+    <SUITE FILE_PATH="coverage/leetcode_python$solution_153.coverage" NAME="solution_153 Coverage Results" MODIFIED="1542014202325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$PlusOne.coverage" NAME="PlusOne Coverage Results" MODIFIED="1543243157743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/Array" />
+    <SUITE FILE_PATH="coverage/leetcode_python$solution_136.coverage" NAME="solution_136 Coverage Results" MODIFIED="1542025019680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$solution_121.coverage" NAME="solution_121 Coverage Results" MODIFIED="1542132733234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/BreadthFirstSearch" />
+    <SUITE FILE_PATH="coverage/leetcode_python$common_anagrams.coverage" NAME="common anagrams Coverage Results" MODIFIED="1542510007825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kickstart" />
+    <SUITE FILE_PATH="coverage/leetcode_python$CopyListWithRandomPointer.coverage" NAME="CopyListWithRandomPointer Coverage Results" MODIFIED="1542992012726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/LinkedList" />
+    <SUITE FILE_PATH="coverage/leetcode_python$ReverseNodeInKGroup.coverage" NAME="ReverseNodeInKGroup Coverage Results" MODIFIED="1542284819636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/LinkedList" />
+    <SUITE FILE_PATH="coverage/leetcode_python$solutionA.coverage" NAME="solutionA Coverage Results" MODIFIED="1542520297381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kickstart/h" />
+    <SUITE FILE_PATH="coverage/leetcode_python$ReverseLinkedListII.coverage" NAME="ReverseLinkedListII Coverage Results" MODIFIED="1542965524231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/LinkedList" />
+    <SUITE FILE_PATH="coverage/leetcode_python$3SumClosest.coverage" NAME="3SumClosest Coverage Results" MODIFIED="1545038269246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/TwoPointers" />
+    <SUITE FILE_PATH="coverage/leetcode_python$BinarySearchTreeIterator.coverage" NAME="BinarySearchTreeIterator Coverage Results" MODIFIED="1542268563019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/Tree" />
+    <SUITE FILE_PATH="coverage/leetcode_python$MoveZeroes.coverage" NAME="MoveZeroes Coverage Results" MODIFIED="1544706719407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/TwoPointers" />
+    <SUITE FILE_PATH="coverage/leetcode_python$ReverseWordsInAString.coverage" NAME="ReverseWordsInAString Coverage Results" MODIFIED="1543238040045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/String" />
+    <SUITE FILE_PATH="coverage/leetcode_python$BinaryTreePreorderTraversal.coverage" NAME="BinaryTreePreorderTraversal Coverage Results" MODIFIED="1542204756749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/Tree" />
+    <SUITE FILE_PATH="coverage/leetcode_python$solutionC.coverage" NAME="solutionC Coverage Results" MODIFIED="1542527460472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kickstart/h" />
+    <SUITE FILE_PATH="coverage/leetcode_python$MedianOfTwoSortedArrays.coverage" NAME="MedianOfTwoSortedArrays Coverage Results" MODIFIED="1543234848937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/Array" />
+    <SUITE FILE_PATH="coverage/leetcode_python$IncreasingOrderSearchTree.coverage" NAME="IncreasingOrderSearchTree Coverage Results" MODIFIED="1543402000846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/Tree" />
+    <SUITE FILE_PATH="coverage/leetcode_python$TwoSumClosestToTarget.coverage" NAME="TwoSumClosestToTarget Coverage Results" MODIFIED="1545036880638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/TwoPointers" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="354566287">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="3911" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="3911" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/TwoPointers/3SumClosest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lintcode/Sort/KthSmallestNumbersInUnsortedArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="34" column="20" selection-start-line="34" selection-end-line="35" />
+              <folding>
+                <marker date="1545060816431" expanded="true" signature="166:966" ph="..." />
+                <marker date="1545060816431" expanded="true" signature="997:1006" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\# Definition for a binary tree node\.\n\# class TreeNode\:\n\#     def __init__\(self\, x\)\:\n\#         self\.val \= x\n\#         self\.left \= None\n\#         self\.right \= None\nclass Solution\:\n    def help\(self\, root\, result\)\:\n        if not root\:\n            return\n        result \+\= root\.val\n        self\.help\(root\.left\)\n        self\.help\(root\.right\)\n\n    def preorderTraversal\(self\, root\)\:\n        \&quot;\&quot;\&quot;\n        \:type root\: TreeNode\n        \:rtype\: List\[int\]\n        \&quot;\&quot;\&quot;\n        if not root\:\n            return \[\]\n        result \= \[\]\n        self\.help\(root\, result\)\n        return result\n</find>
+      <find>root</find>
+      <find>grap</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="tan" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/leetcode/BFS/solution_127.py" />
+        <option value="$PROJECT_DIR$/leetcode/LinkedList/ListNode.py" />
+        <option value="$PROJECT_DIR$/leetcode/Tree/BinarySearchTreeIterator.py" />
+        <option value="$PROJECT_DIR$/lintcode/Sort/Median.py" />
+        <option value="$PROJECT_DIR$/cleancode/array&amp;string/TwoSum.py" />
+        <option value="$PROJECT_DIR$/cleancode/array&amp;string/twosum2.py" />
+        <option value="$PROJECT_DIR$/cleancode/array&amp;string/twoSum2.py" />
+        <option value="$PROJECT_DIR$/kickstart/common anagrams.py" />
+        <option value="$PROJECT_DIR$/kickstart/solutionA.py" />
+        <option value="$PROJECT_DIR$/kickstart/solutionB.py" />
+        <option value="$PROJECT_DIR$/lintcode/DepthFirstSearch/solution_135.py" />
+        <option value="$PROJECT_DIR$/kickstart/h/solutionA.py" />
+        <option value="$PROJECT_DIR$/kickstart/h/output.txt" />
+        <option value="$PROJECT_DIR$/kickstart/h/A-small-attempt0.in.txt" />
+        <option value="$PROJECT_DIR$/kickstart/h/soulutionB.py" />
+        <option value="$PROJECT_DIR$/kickstart/h/solutionC.py" />
+        <option value="$PROJECT_DIR$/leetcode/LinkedList/PartitionList.py" />
+        <option value="$PROJECT_DIR$/leetcode/LinkedList/MergeTwoSortedLists.py" />
+        <option value="$PROJECT_DIR$/leetcode/LinkedList/ReverseLinkedListII.py" />
+        <option value="$PROJECT_DIR$/lintcode/LinkedList/swaptwonodesinlinkedlist.py" />
+        <option value="$PROJECT_DIR$/leetcode/LinkedList/ReverseNodeInKGroup.py" />
+        <option value="$PROJECT_DIR$/leetcode/LinkedList/ReorderList.py" />
+        <option value="$PROJECT_DIR$/leetcode/LinkedList/RotateList.py" />
+        <option value="$PROJECT_DIR$/leetcode/LinkedList/RandomListNode.py" />
+        <option value="$PROJECT_DIR$/leetcode/LinkedList/CopyListWithRandomPointer.py" />
+        <option value="$PROJECT_DIR$/lintcode/LinkedList/DoublyListNode.py" />
+        <option value="$PROJECT_DIR$/lintcode/LinkedList/TreeNode.py" />
+        <option value="$PROJECT_DIR$/lintcode/LinkedList/ConvertABinarySearchTreeToDoublyLinkedListWithInOrderTraversal.py" />
+        <option value="$PROJECT_DIR$/leetcode/Array/MedianOfTwoSortedArrays.py" />
+        <option value="$PROJECT_DIR$/leetcode/DP/MaximumProductSubarray.py" />
+        <option value="$PROJECT_DIR$/leetcode/String/ValidPalindrome.py" />
+        <option value="$PROJECT_DIR$/leetcode/String/ReverseWordsInAString.py" />
+        <option value="$PROJECT_DIR$/leetcode/String/StringToInteger.py" />
+        <option value="$PROJECT_DIR$/leetcode/String/ValidNumber.py" />
+        <option value="$PROJECT_DIR$/leetcode/Array/PlusOne.py" />
+        <option value="$PROJECT_DIR$/leetcode/Math/PalindromeNumber.py" />
+        <option value="$PROJECT_DIR$/beauryOfProgramming/1InBit.py" />
+        <option value="$PROJECT_DIR$/leetcode/Tree/IncreasingOrderSearchTree.py" />
+        <option value="$PROJECT_DIR$/leetcode/String/FirstUniqueCharacterInAString.py" />
+        <option value="$PROJECT_DIR$/lintcode/TwoPointers/windowSum.py" />
+        <option value="$PROJECT_DIR$/leetcode/TwoPointers/MoveZeroes.py" />
+        <option value="$PROJECT_DIR$/lintcode/TwoPointers/RemoveDuplicateNumbersInArray.py" />
+        <option value="$PROJECT_DIR$/leetcode/TwoPointers/RotateString.py" />
+        <option value="$PROJECT_DIR$/lintcode/TwoPointers/TwoSumIII.py" />
+        <option value="$PROJECT_DIR$/lintcode/TwoPointers/3Sum.py" />
+        <option value="$PROJECT_DIR$/leetcode/DP/Triangle.py" />
+        <option value="$PROJECT_DIR$/lintcode/TwoPointers/TriangleCount.py" />
+        <option value="$PROJECT_DIR$/lintcode/TwoPointers/TwoSumGreaterThanTarget.py" />
+        <option value="$PROJECT_DIR$/lintcode/TwoPointers/TwoSumClosestToTarget.py" />
+        <option value="$PROJECT_DIR$/leetcode/TwoPointers/3SumClosest.py" />
+        <option value="$PROJECT_DIR$/lintcode/Sort/KthSmallestNumbersInUnsortedArray.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-17" />
+    <option name="y" value="44" />
+    <option name="width" value="1404" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
+              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
+              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/mac/PycharmProjects/leetcode-python/leetcode/Math/PalindromeNumber.py&#10;R&#9;FILE&#9;file:///Users/mac/PycharmProjects/leetcode-python/.idea/workspace.xml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kickstart/h" />
+      <recent name="$PROJECT_DIR$/kickstart" />
+      <recent name="$PROJECT_DIR$/leetcode/Tree" />
+      <recent name="$PROJECT_DIR$/leetcode/BFS" />
+      <recent name="$PROJECT_DIR$/leetcode" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.KthSmallestNumbersInUnsortedArray">
+    <configuration name="3SumClosest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/TwoPointers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/TwoPointers/3SumClosest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KthSmallestNumbersInUnsortedArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lintcode/Sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode/Sort/KthSmallestNumbersInUnsortedArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/DP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/DP/Triangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TriangleCount" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lintcode/TwoPointers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode/TwoPointers/TriangleCount.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TwoSumClosestToTarget" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lintcode/TwoPointers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode/TwoPointers/TwoSumClosestToTarget.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="leetcode-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in /Users/mac/PycharmProjects/leetcode-python/test" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="leetcode-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in /Users/mac/PycharmProjects/leetcode-python/test" />
+      <item itemvalue="Python.Triangle" />
+      <item itemvalue="Python.TriangleCount" />
+      <item itemvalue="Python.TwoSumClosestToTarget" />
+      <item itemvalue="Python.3SumClosest" />
+      <item itemvalue="Python.KthSmallestNumbersInUnsortedArray" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.KthSmallestNumbersInUnsortedArray" />
+        <item itemvalue="Python.3SumClosest" />
+        <item itemvalue="Python.TwoSumClosestToTarget" />
+        <item itemvalue="Python.TriangleCount" />
+        <item itemvalue="Python.Triangle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34e8047d-55bf-4ee4-b709-6c37e5d867e9" name="Default Changelist" comment="" />
+      <created>1541656425656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541656425656</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Word Ladder">
+      <created>1541665060959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541665060960</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Word Ladder">
+      <created>1541665357688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541665357690</updated>
+    </task>
+    <task id="LOCAL-00003" summary="push">
+      <created>1542012490308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542012490308</updated>
+    </task>
+    <task id="LOCAL-00004" summary="delete test">
+      <created>1542012523816</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542012523816</updated>
+    </task>
+    <task id="LOCAL-00005" summary="reconstruct">
+      <created>1542025952204</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542025952204</updated>
+    </task>
+    <task id="LOCAL-00006" summary="15.全排列">
+      <created>1542028173296</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542028173296</updated>
+    </task>
+    <task id="LOCAL-00007" summary="N queen 问题">
+      <created>1542035940485</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542035940485</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Word labber 2 问题">
+      <created>1542133202119</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542133202120</updated>
+    </task>
+    <task id="LOCAL-00009" summary="剑指offer">
+      <created>1542210387312</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542210387312</updated>
+    </task>
+    <task id="LOCAL-00010" summary="二叉搜索树 迭代器">
+      <created>1542210405128</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542210405128</updated>
+    </task>
+    <task id="LOCAL-00011" summary="前序非递归遍历">
+      <created>1542210493953</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1542210493953</updated>
+    </task>
+    <task id="LOCAL-00012" summary="TreeNode 类">
+      <created>1542210511256</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542210511256</updated>
+    </task>
+    <task id="LOCAL-00013" summary="dd">
+      <created>1542210710493</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1542210710493</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Reverse node in k group">
+      <created>1542272280863</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1542272280863</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="23" width="1404" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18135096" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.41500765" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4778481" weight="0.40127388" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2607862" side_tool="true" weight="0.38897398" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.7392138" visible="true" weight="0.3299363" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="310" height="635" id="Documentation" order="5" side_tool="true" weight="0.62785554" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Word Ladder" />
+    <MESSAGE value="push" />
+    <MESSAGE value="delete test" />
+    <MESSAGE value="reconstruct" />
+    <MESSAGE value="15.全排列" />
+    <MESSAGE value="N queen 问题" />
+    <MESSAGE value="Word labber 2 问题" />
+    <MESSAGE value="剑指offer" />
+    <MESSAGE value="二叉搜索树 迭代器" />
+    <MESSAGE value="前序非递归遍历" />
+    <MESSAGE value="TreeNode 类" />
+    <MESSAGE value="dd" />
+    <MESSAGE value="Reverse node in k group" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse node in k group" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode/BreadthFirstSearch/solution_121.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/Tree/BinaryTreePreorderTraversal.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode/Sort/Median.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kickstart/solutionA.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kickstart/h/solutionA.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kickstart/h/solutionA.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kickstart/h/soulutionB.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/LinkedList/ReverseLinkedListII.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/LinkedList/CopyListWithRandomPointer.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/String/ValidPalindrome.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/Array/PlusOne.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/Math/PalindromeNumber.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/Tree/IncreasingOrderSearchTree.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/TwoPointers/MoveZeroes.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode/TwoPointers/RemoveDuplicateNumbersInArray.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/TwoPointers/RotateString.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode/TwoPointers/TwoSumIII.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/DP/Triangle.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode/TwoPointers/TriangleCount.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/TwoPointers/3SumClosest.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode/Sort/KthSmallestNumbersInUnsortedArray.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="head" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kickstart/h/A-large.in.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89849" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kickstart/h/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kickstart/h/solutionA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="41" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kickstart/h/soulutionB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding>
+            <marker date="1542523755875" expanded="true" signature="19:309" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kickstart/h/C-small-attempt0.in.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kickstart/h/A-small-attempt0.in.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kickstart/h/solutionC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/Sort/Median.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/DepthFirstSearch/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/BreadthFirstSearch/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/LinkedList/PartitionList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/LinkedList/ReorderList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/LinkedList/MergeTwoSortedLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/LinkedList/ReverseLinkedListII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/LinkedList/ReverseNodeInKGroup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/LinkedList/RotateList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/LinkedList/RandomListNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/LinkedList/ListNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/LinkedList/TreeNode.py" />
+    <entry file="file://$PROJECT_DIR$/lintcode/LinkedList/SwapTwoNodesInLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/LinkedList/CopyListWithRandomPointer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/LinkedList/DoublyListNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/LinkedList/ConvertABinarySearchTreeToDoublyLinkedListWithInOrderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/Array/MedianOfTwoSortedArrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/DP/MaximumProductSubarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/String/ReverseWordsInAString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/String/ValidPalindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/String/StringToInteger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="42" selection-start-line="20" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/String/ValidNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/Array/PlusOne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/Math/PalindromeNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/Tree/IncreasingOrderSearchTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="e#170#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/String/FirstUniqueCharacterInAString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beauryOfProgramming/1InBit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/TwoPointers/windowSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/TwoPointers/MoveZeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943127/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20577">
+          <caret line="2882" column="8" selection-start-line="2882" selection-start-column="8" selection-end-line="2882" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_umd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="196" selection-start-line="196" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/TwoPointers/RemoveDuplicateNumbersInArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/TwoPointers/RotateString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/TwoPointers/TwoSumIII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/TwoPointers/3Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/DP/Triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="803">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <marker date="1544933855042" expanded="true" signature="403:912" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/TwoPointers/TriangleCount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/TwoPointers/TwoSumGreaterThanTarget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/TwoPointers/TwoSumClosestToTarget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <marker date="1545036925327" expanded="true" signature="211:212" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/TwoPointers/3SumClosest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/posixpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="155" selection-start-line="155" selection-end-line="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/Sort/KthSmallestNumbersInUnsortedArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="34" column="20" selection-start-line="34" selection-end-line="35" />
+          <folding>
+            <marker date="1545060816431" expanded="true" signature="166:966" ph="..." />
+            <marker date="1545060816431" expanded="true" signature="997:1006" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
