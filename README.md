@@ -30,6 +30,7 @@
 | [LintCode 144. Interleaving Positive and Negative Numbers](https://www.lintcode.com/problem/interleaving-positive-and-negative-numbers/description) |||
 | [LintCode 49. Sort Letters by Case](https://www.lintcode.com/problem/sort-letters-by-case/) |||
 |[LeetCode 75. Sort Colors](https://leetcode.com/problems/sort-colors/) |||
+|[LintCode 143. Sort Colors II](https://www.lintcode.com/problem/sort-colors-ii/description)||
 
 # Mock Interview
 |题目     |Solution   |Tag     |
