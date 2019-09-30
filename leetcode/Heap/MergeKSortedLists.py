@@ -3,13 +3,13 @@
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
-
-
 from leetcode.LinkedList.ListNode import ListNode
 
 from queue import PriorityQueue
+
+
 class Solution:
-    def mergeKLists(self, lists: 'List[ListNode]') -> 'ListNode':
+    def mergeKLists(self, lists):
         heap = PriorityQueue()
 
         for i in range(len(lists)):
@@ -36,11 +36,9 @@ list2.next.next = ListNode(4)
 list3 = ListNode(2)
 list3.next = ListNode(6)
 
-lists = [list1,list2,list3]
+lists = [list1, list2, list3]
 so = Solution()
 res = so.mergeKLists(lists)
 while res is not None:
     print(res.val)
     res = res.next
-
-
