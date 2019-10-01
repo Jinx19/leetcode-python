@@ -4,7 +4,6 @@ class Solution:
     @param target: An integer
     @return: A list of lists of integers
     """
-
     def combinationSum(self, candidates, target):
         """write your code here"""
         result = list()
@@ -25,4 +24,3 @@ class Solution:
                 path.append(candidates[i])
                 self.dfs(candidates[i:], target - candidates[i], path, result)
                 path.remove(candidates[i])
-

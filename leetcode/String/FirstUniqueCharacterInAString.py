@@ -6,7 +6,7 @@ class Solution:
         """
         if s is None:
             return -1
-        accurant = [ - 1 for i in range(256)]
+        accurant = [-1 for i in range(256)]
         for i in range(len(s)):
             if accurant[i] == -1:
                 accurant[i] == 0
@@ -17,4 +17,3 @@ class Solution:
             if accurant[i] == 0:
                 return i
         return -1
-

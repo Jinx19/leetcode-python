@@ -14,7 +14,7 @@ class Solution:
         while dummy.next:
             if dummy.next.val < x:
                 dummy = dummy.next
-            else :
+            else:
                 greater.next = dummy.next
                 greater = greater.next
                 dummy.next = (dummy.next).next

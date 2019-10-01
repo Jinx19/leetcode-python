@@ -30,5 +30,7 @@ class Solution:
         while i < n and s[i].isspace():
             i += 1
         return isNumber and i == n
+
+
 s = Solution()
 print(s.isNumber('e'))

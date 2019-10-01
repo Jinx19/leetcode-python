@@ -2,7 +2,7 @@ from leetcode.LinkedList.ListNode import ListNode
 
 
 class LRUCache:
-    def repalce(self,key:'int'):
+    def repalce(self, key: 'int'):
         pre = self.head
         curr = pre.next
         while curr is not None:
@@ -11,7 +11,7 @@ class LRUCache:
                     return
                 pre.next = curr.next
                 break
-            pre= pre.next
+            pre = pre.next
             curr = curr.next
 
         curr = self.head
@@ -19,7 +19,7 @@ class LRUCache:
             curr = curr.next
         curr.next = ListNode(key)
 
-    def appendtail(self,key:'int',value:'int'):
+    def appendtail(self, key: 'int', value: 'int'):
         self.hashmap[key] = value
         dummpy = self.head
         while dummpy.next is not None:
@@ -31,7 +31,6 @@ class LRUCache:
         if dummpy.next is not None:
             self.hashmap.pop(dummpy.next.val)
             dummpy.next = dummpy.next.next
-
 
     def __init__(self, capacity: 'int'):
         self.capacity = capacity
@@ -49,10 +48,12 @@ class LRUCache:
         if len(self.hashmap) == self.capacity and key not in self.hashmap:
             self.deleteused()
         if key not in self.hashmap:
-            self.appendtail(key,value)
+            self.appendtail(key, value)
         else:
             self.hashmap[key] = value
             self.repalce(key)
+
+
 #
 # cache = LRUCache(2)
 # print(cache.put(1,1))
@@ -67,10 +68,10 @@ class LRUCache:
 #
 cache = LRUCache(2)
 print(cache.get(2))
-print(cache.put(2,6))
+print(cache.put(2, 6))
 print(cache.get(1))
-print(cache.put(1,5))
-print(cache.put(1,2))
+print(cache.put(1, 5))
+print(cache.put(1, 2))
 print(cache.get(1))
 print(cache.get(2))
 

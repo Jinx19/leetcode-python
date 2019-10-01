@@ -7,14 +7,13 @@ class Solution:
     @param target: An integer
     @return: the difference between the sum and the target
     """
-
     def twoSumClosest(self, nums, target):
-# write your code here
-        left,right = 0,len(nums) - 1
+        # write your code here
+        left, right = 0, len(nums) - 1
         diff = sys.maxsize
         nums.sort()
         while left < right:
-            diff = min(diff,abs(target - (nums[left] + nums[right])))
+            diff = min(diff, abs(target - (nums[left] + nums[right])))
             if nums[left] + nums[right] > target:
                 right -= 1
             else:
@@ -22,8 +21,8 @@ class Solution:
         return diff
 
 
-s =Solution()
+s = Solution()
 nums = [-1, 2, 1, -4]
 target = 4
-ret = s.twoSumClosest(nums,target)
+ret = s.twoSumClosest(nums, target)
 print(ret)

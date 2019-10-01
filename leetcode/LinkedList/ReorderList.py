@@ -14,7 +14,7 @@ def reorderList(head):
     """
     if head is None or head.next is None or head.next.next is None:
         return head
-    #using map
+    # using map
     # h = head
     # count = 0
     # d = {count: head}
@@ -35,9 +35,9 @@ def reorderList(head):
     #     d[low].next = None
     #     d[low + 1].next = d[low]
     """
-    Three steps: 
-    1) find mid node and split list to left and right halves 
-    2) reverse right part 
+    Three steps:
+    1) find mid node and split list to left and right halves
+    2) reverse right part
     3) merge left and right part
     """
     # slow, fast = head, head.next

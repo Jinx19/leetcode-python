@@ -12,6 +12,7 @@ class Solution:
         for i in range(count, len(nums)):
             nums[i] = 0
 
+
 s = Solution()
-nums = [0,1,0,3,12]
+nums = [0, 1, 0, 3, 12]
 s.moveZeroes(nums)

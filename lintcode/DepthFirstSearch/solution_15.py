@@ -19,7 +19,6 @@ class Solution:
     @param: nums: A list of integers.
     @return: A list of permutations.
     """
-
     def dfs(self, length, arrange, nums, result, n):
         if length == n:
             result.append(list(arrange))

@@ -26,7 +26,6 @@ class Solution(object):
             dummpy = dummpy.next.next
 
         copyhead = head.next
-        
         while head:
             temp = head.next
             head.next = temp.next

@@ -1,4 +1,6 @@
 import itertools
+
+
 def minAreaFreeRect(points):
     EPS = 1e-7
     points = set(map(tuple, points))
@@ -16,6 +18,7 @@ def minAreaFreeRect(points):
 
     return ans if ans < float('inf') else 0
 
-points = [[3,1],[1,1],[0,1],[2,1],[3,3],[3,2],[0,2],[2,3]]
+
+points = [[3, 1], [1, 1], [0, 1], [2, 1], [3, 3], [3, 2], [0, 2], [2, 3]]
 ans = minAreaFreeRect(points)
 print(ans)

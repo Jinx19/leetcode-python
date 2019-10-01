@@ -2,7 +2,7 @@ class Solution(object):
     def rotateString(self, A, B):
         MOD = 10**9 + 7
         P = 113
-        Pinv = pow(P, MOD-2, MOD)
+        Pinv = pow(P, MOD - 2, MOD)
 
         hb = 0
         power = 1
@@ -25,11 +25,12 @@ class Solution(object):
             ha -= code
             # ha *= Pinv
             ha %= MOD
-            if ha == hb and A[i+1:] + A[:i+1] == B:
+            if ha == hb and A[i + 1:] + A[:i + 1] == B:
                 return True
         return False
+
 
 s = Solution()
 A = 'abcde'
 B = 'cdeab'
-s.rotateString(A,B)
+s.rotateString(A, B)

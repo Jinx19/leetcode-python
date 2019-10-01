@@ -4,7 +4,6 @@ class Solution:
     @param k: length of window.
     @return: the sum of the element inside the window at each moving.
     """
-
     def winSum(self, nums, k):
         # write your code here
         ret = []

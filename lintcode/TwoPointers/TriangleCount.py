@@ -3,7 +3,6 @@ class Solution:
     @param S: A list of integers
     @return: An integer
     """
-
     def triangleCount(self, S):
         # write your code here
         if len(S) < 3:
@@ -13,7 +12,7 @@ class Solution:
         S.sort()
         S.reverse()
         for c in range(length - 2):
-            a,b = c + 1,length - 1
+            a, b = c + 1, length - 1
             while a < b:
                 if S[a] + S[b] > S[c]:
                     count += b - a
@@ -23,7 +22,8 @@ class Solution:
 
         return count
 
+
 s = Solution()
-S = [4,4,4,4]
+S = [4, 4, 4, 4]
 ret = s.triangleCount(S)
 print(ret)

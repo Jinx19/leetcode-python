@@ -1,5 +1,5 @@
 class Solution:
-    def helper(self,k, nums, begin, visited, target, currSum):
+    def helper(self, k, nums, begin, visited, target, currSum):
         if k < 0 or currSum > target:
             return False
         if currSum == target:
@@ -13,7 +13,8 @@ class Solution:
                 continue
             else:
                 visited[i] = True
-                if self.helper(k, nums, i + 1, visited, target, currSum + nums[i]):
+                if self.helper(k, nums, i + 1, visited, target,
+                               currSum + nums[i]):
                     return True
                 else:
                     visited[i] = False
@@ -32,11 +33,10 @@ class Solution:
         if sum % k != 0:
             return False
         else:
-            return self.helper(k,nums,0,visited,sum/k,0)
+            return self.helper(k, nums, 0, visited, sum / k, 0)
 
 
 s = Solution()
-nums = [4,3,2,3,5,2,1]
+nums = [4, 3, 2, 3, 5, 2, 1]
 k = 4
-print(s.canPartitionKSubsets(nums,k))
-
+print(s.canPartitionKSubsets(nums, k))

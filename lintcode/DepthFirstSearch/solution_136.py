@@ -3,7 +3,6 @@ class Solution:
     @param: s: A string
     @return: A list of lists of string
     """
-
     def isPalidrome(self, s):
         left = 0
         right = len(s) - 1

@@ -1,11 +1,12 @@
 from collections import deque
 from lintcode.LinkedList import DoublyListNode
+
+
 class Solution:
     """
     @param root: The root of tree
     @return: the head of doubly list node
     """
-
     def bstToDoublyList(self, root):
         # write your code here
 
@@ -36,4 +37,3 @@ class Solution:
                     stack.append(temp)
 
         return dummpy.next
-

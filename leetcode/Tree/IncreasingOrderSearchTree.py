@@ -38,6 +38,7 @@ class Solution(object):
 
         return root
 
+
 S = Solution()
 root = TreeNode(5)
 root.left = TreeNode(3)
@@ -50,9 +51,3 @@ root.right.right.left = TreeNode(7)
 root.right.right.right = TreeNode(9)
 
 print(S.increasingBST(root).__str__())
-
-
-
-
-
-

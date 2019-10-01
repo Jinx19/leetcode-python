@@ -1,6 +1,7 @@
 class TwoSum:
     def __init__(self):
         self.nums = {}
+
     """
     @param number: An integer
     @return: nothing
@@ -11,6 +12,7 @@ class TwoSum:
             self.nums[number] += 1
         else:
             self.nums[number] = 1
+
     """
     @param value: An integer
     @return: Find if there exists any pair of numbers which sum is equal to the value.
@@ -26,6 +28,7 @@ class TwoSum:
                 return True
         return False
 
+
 s = TwoSum()
 s.add(2)
 s.add(3)
@@ -38,5 +41,3 @@ print(re)
 s.add(3)
 re = s.find(6)
 print(re)
-
-

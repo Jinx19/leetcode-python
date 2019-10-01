@@ -1,11 +1,12 @@
 import collections
 import sys
+
+
 class Solution:
     """
     @param grid: a 2D grid
     @return: An integer
     """
-
     def shortestDistance(self, grid):
         # write your code here
         if not grid:
@@ -14,7 +15,7 @@ class Solution:
         n = len(grid[0])
 
         dist = [[sys.maxsize for j in range(n)] for i in range(m)]
-        reachable_count = [[0 for j in range(n)] for i in range(m)];
+        reachable_count = [[0 for j in range(n)] for i in range(m)]
         min_dist = sys.maxsize
 
         buildings = 0
@@ -46,7 +47,8 @@ class Solution:
             for x, y in ((1, 0), (-1, 0), (0, 1), (0, -1)):
                 nx, ny = i + x, j + y
 
-                if nx > -1 and nx < m and ny > -1 and ny < n and not visited[nx][ny]:
+                if nx > -1 and nx < m and ny > -1 and ny < n and not visited[
+                        nx][ny]:
                     visited[nx][ny] = True
                     if grid[nx][ny] == 0:
                         q.append((nx, ny, l + 1))

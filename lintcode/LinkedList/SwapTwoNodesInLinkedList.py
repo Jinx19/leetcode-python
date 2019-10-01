@@ -1,12 +1,13 @@
 from leetcode.LinkedList.ListNode import ListNode
 
-#V1,V2 顺序
+
+# V1,V2 顺序
 def swapNodes(head, v1, v2):
     # write your code here
     if v1 == v2:
         return head
     count = 0
-    index1,index2 = count,count
+    index1, index2 = count, count
     findv1, findv2 = False, False
     dummp = ListNode(0)
     dummp.next = head
@@ -52,9 +53,9 @@ def swapNodes(head, v1, v2):
             v1Node.next = t
     return dummp.next
 
+
 h = ListNode(10)
 h = swapNodes(h, 10, 100)
 while h:
     print(h.val)
     h = h.next
-

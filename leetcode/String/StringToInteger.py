@@ -1,13 +1,16 @@
 import sys
+
+
 class Solution:
     def myAtoi(self, str):
         """
         :type str: str
         :rtype: int
         """
-        maxDiv10 = (int)(2147483647/10)
-        i,n = 0,len(str)
-        while i<n and str[i].isspace(): i += 1
+        maxDiv10 = (int)(2147483647 / 10)
+        i, n = 0, len(str)
+        while i < n and str[i].isspace():
+            i += 1
         sign = 1
         if i < n and str[i] == '+':
             i += 1
@@ -22,6 +25,7 @@ class Solution:
             num = num * 10 + digit
             i += 1
         return sign * num
+
 
 s = Solution()
 print(s.myAtoi(' -43'))

@@ -4,11 +4,11 @@ class Solution:
         :type s: str
         :rtype: bool
         """
-        i,j = 0 , len(s) -1
+        i, j = 0, len(s) - 1
         while i < j:
-            while i < j and (not s[i:i+1].isalnum()):
+            while i < j and (not s[i:i + 1].isalnum()):
                 i += 1
-            while i < j and (not s[j:j+1].isalnum()):
+            while i < j and (not s[j:j + 1].isalnum()):
                 j -= 1
             if s[i].lower() != s[j].lower():
                 return False

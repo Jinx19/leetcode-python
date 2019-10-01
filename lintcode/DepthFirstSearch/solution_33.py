@@ -18,7 +18,6 @@ class Solution:
     @param: n: The number of queens
     @return: All distinct solutions
     """
-
     def isSafe(self, plane, row, col, n):
 
         for i in range(col):
@@ -27,7 +26,7 @@ class Solution:
 
         left = col - 1
         top = row - 1
-        while left > -1 and top > - 1:
+        while left > -1 and top > -1:
             if plane[top][left] == 'Q':
                 return False
             left = left - 1
@@ -35,7 +34,7 @@ class Solution:
 
         left = col - 1
         low = row + 1
-        while left > - 1 and low < n:
+        while left > -1 and low < n:
             if plane[low][left] == 'Q':
                 return False
             left = left - 1

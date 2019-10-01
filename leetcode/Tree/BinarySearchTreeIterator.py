@@ -7,8 +7,6 @@
 
 from collections import deque
 
-from leetcode.Tree.TreeNode import TreeNode
-
 
 class BSTIterator(object):
     root = None

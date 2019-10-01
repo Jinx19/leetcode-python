@@ -12,9 +12,10 @@ def repeatedNTimes(A):
             i += 1
             j += 1
 
-s = [1,2,3,3]
+
+s = [1, 2, 3, 3]
 ret = repeatedNTimes(s)
 print(ret)
-s = [2,1,2,5,3,2]
+s = [2, 1, 2, 5, 3, 2]
 ret = repeatedNTimes(s)
 print(ret)

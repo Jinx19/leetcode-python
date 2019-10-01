@@ -11,7 +11,7 @@ from leetcode.Tree.TreeNode import TreeNode
 
 
 class Solution:
-    def search(self, root, k,node):
+    def search(self, root, k, node):
         if root is None:
             return False
         if root is not node and root.val == k:
@@ -28,7 +28,7 @@ class Solution:
         while len(queue) > 0 and tag is False:
             node = queue.popleft()
             key = k - node.val
-            tag = self.search(root, key,node)
+            tag = self.search(root, key, node)
             if node.left is not None:
                 queue.append(node.left)
             if node.right is not None:
@@ -36,13 +36,13 @@ class Solution:
 
         return tag
 
+
 s = Solution()
 root = TreeNode(2)
 root.left = TreeNode(1)
 root.right = TreeNode(3)
 
-
-result = s.findTarget(root,4)
+result = s.findTarget(root, 4)
 if result:
     print("True")
 else:

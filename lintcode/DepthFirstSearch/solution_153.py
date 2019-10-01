@@ -15,7 +15,6 @@ class Solution:
     @param target: An integer
     @return: A list of lists of integers
     """
-
     def combinationSum2(self, candidates, target):
         """write your code here"""
         result = list()
@@ -35,7 +34,8 @@ class Solution:
         for i in range(m):
             if i == 0 or (i > 0 and candidates[i] != candidates[i - 1]):
                 path.append(candidates[i])
-                self.dfs(candidates[i + 1:], target - candidates[i], path, result)
+                self.dfs(candidates[i + 1:], target - candidates[i], path,
+                         result)
                 path.remove(candidates[i])
 
 

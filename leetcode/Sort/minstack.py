@@ -4,7 +4,7 @@ class Stack:
         self.index_q1 = -1
         top = None
 
-    def push(self,val):
+    def push(self, val):
         self.q1.append(val)
         self.index_q1 += 1
         top = val
@@ -24,8 +24,9 @@ class Stack:
     def isFull(self):
         return self.index_q1 == self.size - 1
 
+
 if __name__ == '__main__':
     s = Stack()
     s.push(3)
     s.push(4)
-    print (s.pop())
+    print(s.pop())

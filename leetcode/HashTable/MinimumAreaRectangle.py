@@ -1,4 +1,6 @@
 import sys
+
+
 def minAreaRect(points):
     """
     :type points: List[List[int]]
@@ -16,13 +18,13 @@ def minAreaRect(points):
             xy[point[0]].append(point[1])
 
     for i in range(len(points)):
-        for j in range(i + 1,len(points)):
+        for j in range(i + 1, len(points)):
             x0 = points[i][0]
             y0 = points[i][1]
             x1 = points[j][0]
             y1 = points[j][1]
 
-            if x0 == x1 or  y0 == y1:
+            if x0 == x1 or y0 == y1:
                 continue
 
             area = abs(x0 - x1) * abs(y0 - y1)
@@ -40,6 +42,7 @@ def minAreaRect(points):
     else:
         return 0
 
-points = [[1,1],[1,3],[3,1],[3,3],[4,1],[4,3]]
+
+points = [[1, 1], [1, 3], [3, 1], [3, 3], [4, 1], [4, 3]]
 minarea = minAreaRect(points)
 print(minarea)

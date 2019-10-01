@@ -8,7 +8,6 @@ class Solution:
     @param: dict: a set of string
     @return: a list of lists of string
     """
-
     def bfs(self, map, distance, start, end, dict):
         q = deque([start])
         distance[start] = 0
@@ -17,7 +16,8 @@ class Solution:
 
         while q:
             crt = q.popleft()
-            nextlist = dict & set(crt[:index] + ch + crt[index + 1:] for index in range(len(crt))
+            nextlist = dict & set(crt[:index] + ch + crt[index + 1:]
+                                  for index in range(len(crt))
                                   for ch in 'abcdefghijklmnopqrstuvwxyz')
             nextlist -= set([crt])
             for next in nextlist:

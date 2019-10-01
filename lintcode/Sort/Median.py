@@ -3,7 +3,6 @@ class Solution:
     @param nums: A list of integers
     @return: An integer denotes the middle number of the array
     """
-
     def quickSort(self, start, end, nums, k):
 
         i, j = start, end
@@ -24,16 +23,17 @@ class Solution:
         if start + k - 1 <= j:
             return self.quickSort(start, j, nums, k)
         if start + k - 1 >= i:
-            return self.quickSort(i, end, nums, k-(i - start))
+            return self.quickSort(i, end, nums, k - (i - start))
         return nums[j + 1]
 
     def median(self, nums):
         size = len(nums)
-        if size%2 == 0:
-            k = size/2
+        if size % 2 == 0:
+            k = size / 2
         else:
-            k = (size + 1)/2
+            k = (size + 1) / 2
         return self.quickSort(0, size - 1, nums, k)
+
 
 s = Solution()
 print(s.median([7, 9, 4, 5]))

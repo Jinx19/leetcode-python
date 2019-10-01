@@ -14,8 +14,9 @@ class Solution:
             r = x % 10
             if l != r: return False
             x = (int)((x % div) / 10)
-            div = (int)(div/100)
+            div = (int)(div / 100)
         return True
+
 
 s = Solution()
 print(s.isPalindrome(121))
