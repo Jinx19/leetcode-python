@@ -56,3 +56,4 @@ start = "a"
 end = "c"
 dict = set(["a", "b", "c"])
 solution.findLadders(start, end, dict)
+a = [1, 2, 3]
