@@ -2,6 +2,13 @@
 
 # 九章算法基础班
 
+## 二分
+|题目|地址|
+|--|--|
+|153. Find Minimum in Rotated Sorted Array|https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/|
+|||
+
+
 ## 双指针
 
 |题目     |Solution   |Tag     |
